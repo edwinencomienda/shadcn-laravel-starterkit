@@ -49,7 +49,7 @@ export default function AppHeader() {
                             </div>
                         </DropdownMenuItem>
                         <DropdownMenuSeparator />
-                        <DropdownMenuItem>
+                        <DropdownMenuItem asChild>
                             <Link href="/settings">Settings</Link>
                         </DropdownMenuItem>
                         <DropdownMenuSeparator />
